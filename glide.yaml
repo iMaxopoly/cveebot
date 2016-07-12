@@ -1,0 +1,3 @@
+package: cv.ee-apply
+import:
+- package: github.com/PuerkitoBio/goquery
